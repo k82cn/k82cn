@@ -7,4 +7,4 @@ I'm a team leader, system architect, designer, software developer with 10+ years
 - 👯 I’m looking to collaborate on Cloud Native AI infrastructure.
 - 📫 How to reach me: klaus1982.cn@gmail.com, WeChat: klaus_ma_cn
 
-![](https://github-readme-stats.vercel.app/api?username=k82cn&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=k82cn&hide_border=true&hide_title=true)
